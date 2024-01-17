@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Poems, everybody"
+title   = "Pink"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Robert Insfran"
+  name = "Idalina Insfrán"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Nada aún"
+  homeSubtitle = "..."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
