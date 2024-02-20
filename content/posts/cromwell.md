@@ -1,22 +1,27 @@
-+++
-title = "To a Cromwell's Army Captain."
-description = ""
-type = ["posts","post"]
-tags = [
-    "sonnet",
-    "borges",
-    "traslate",
-    "last words",
-       ]
-date = "2023-07-09"
-categories = [
+---
+author:
+  name: "Roberto Insfrán"
+date: 2023-07-09
+linktitle: To a Cromwell's Army Captain
+type:
+- post
+- posts
+tags : [
+"sonnet",
+"borges",
+"traslate",
+"last words",
+]
+categories : [
     "captain",
     "vain",
 ]
-series = ["Hugo 101"]
-[ author ]
-  name = "Hugo Authors"
-+++
+title: To a Cromwell's Army Captain
+weight: 10
+series:
+- Hugo 101
+---
+
 
 To a Cromwell's Army Captain.
 
